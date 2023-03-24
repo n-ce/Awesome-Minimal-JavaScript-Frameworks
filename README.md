@@ -6,4 +6,4 @@
 - [Mithril](https://mithril.js.org/) - a modern client-side JavaScript framework for building Single Page Applications, with routing and XHR utilities out of the box.
 - [Point](https://pointjs.org) - a no-bloatware framework which can handle HTML rendering, data binding, and routing for Single-Page Applications.
 - [Alpine](https://alpinejs.dev/) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - an ultra-lightweight Virtual DOM, highly-optimized diff algorithm, and state management library.
