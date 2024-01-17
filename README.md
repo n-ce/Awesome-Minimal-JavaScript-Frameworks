@@ -1,6 +1,6 @@
 ### Here's a curated table of awesome light weight JS frameworks that can be loaded through a CDN.
 
-|Framework|Repository|Latest Release|Size/CDN|Description|
+|Framework|Repository|Latest Release![](https://img.shields.io/badge/Month-Year-white?style=for-the-badge)|Size/CDN|Description|
 |:-:|:-:|:-:|:-:|:-:|
 [preact](https://preactjs.com/)|[![](https://img.shields.io/github/stars/preactjs/preact.svg?style=social&label=Star)](https://github.com/preactjs/preact)|[![](https://img.shields.io/badge/DEC-23-green?style=for-the-badge)](https://github.com/preactjs/preact/releases)|[**10kb**](https://unpkg.com/preact/dist/preact.js)|fast 3kB alternative to React with the same modern API.|
 |[HTMX](https://htmx.org/)|[![](https://img.shields.io/github/stars/bigskysoftware/htmx.svg?style=social&label=Star)](https://github.com/bigskysoftware/htmx)|[![](https://img.shields.io/badge/JAN-24-green?style=for-the-badge)](https://github.com/bigskysoftware/htmx/releases)|[**44kb**](https://unpkg.com/browse/htmx.org/dist/)|access AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes|
