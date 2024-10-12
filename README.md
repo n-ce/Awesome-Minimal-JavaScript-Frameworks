@@ -12,6 +12,12 @@
   - CDN : https://cdn.jsdelivr.net/npm/alpinejs/dist/cdn.min.js
   -  A rugged, minimal framework for composing JavaScript behavior in your markup.
 
+## [Datastar](https://data-star.dev/)
+- [![](https://img.shields.io/github/stars/delaneyj/datastar.svg?style=social&label=Star)](https://github.com/delaneyj/datastar)
+- [![](https://img.shields.io/github/last-commit/delaneyj/datastar)](https://github.com/delaneyj/datastar/tags)
+- CDN : https://cdn.jsdelivr.net/npm/@sudodevnull/datastar
+- Typescript library for making hypermedia systems, plugins work off of signals to make everything reactive and allow very fast interactions in very little code.
+
 ## [Van](https://vanjs.org)
   - [![](https://img.shields.io/github/stars/vanjs-org/van.svg?style=social&label=Star)](https://github.com/vanjs-org/van)
   - [![](https://img.shields.io/github/release-date/vanjs-org/van)](https://github.com/vanjs-org/van/releases)
