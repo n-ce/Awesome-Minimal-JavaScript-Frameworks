@@ -14,7 +14,7 @@
 
 ## [Datastar](https://data-star.dev/)
 - [![](https://img.shields.io/github/stars/delaneyj/datastar.svg?style=social&label=Star)](https://github.com/delaneyj/datastar)
-- [![](https://img.shields.io/github/last-commit/delaneyj/datastar)](https://github.com/delaneyj/datastar/tags)
+- [![](https://img.shields.io/github/release-date/delaneyj/datastar)](https://github.com/delaneyj/datastar/releases)
 - CDN : https://cdn.jsdelivr.net/npm/@sudodevnull/datastar
 - Typescript library for making hypermedia systems, plugins work off of signals to make everything reactive and allow very fast interactions in very little code.
 
@@ -36,7 +36,9 @@
   - CDN : https://cdn.jsdelivr.net/npm/inferno/dist/inferno.min.js
   - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
-<br>
-<hr>
 
-#### [Mithril](https://github.com/MithrilJS/mithril.js) was removed from the list due to no visible development in a year ![](https://img.shields.io/github/release-date/mithriljs/mithril.js) even though a major release was announced 2 years ago
+## [Mithril](https://github.com/MithrilJS/mithril.js)
+  - [![](https://img.shields.io/github/stars/MithrilJS/mithril.js.svg?style=social&label=Star)](https://github.com/MithrilJS/mithril.js)
+  - [![](https://img.shields.io/github/release-date/MithrilJS/mithril.js)](https://github.com/MithrilJS/mithril.js/releases)
+  - CDN : https://unpkg.com/mithril
+  - SPA framework with routing and XHR utilities out of the box.
