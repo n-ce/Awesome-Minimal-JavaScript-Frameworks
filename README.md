@@ -1,5 +1,8 @@
 ### Here's a curated list of awesome light weight & modern JS frameworks that can be loaded through a CDN.
 
+> [!NOTE]
+The Author Recommends using Vanilla JS over these libraries for smaller projects.
+
 ## [HTMX](https://htmx.org/)
   - [![](https://img.shields.io/github/stars/bigskysoftware/htmx.svg?style=social&label=Star)](https://github.com/bigskysoftware/htmx)
   - [![](https://img.shields.io/github/release-date/bigskysoftware/htmx)](https://github.com/bigskysoftware/htmx/releases)
