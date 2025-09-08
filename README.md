@@ -2,7 +2,7 @@
 
 > [!NOTE]
 For small sized projects Vanilla JS is more than equipped, See this [Gist](https://gist.github.com/n-ce/20e17c5d6f24e4cd835547335016f78b)<br><br><br>
-If JavaScript Tooling is not an issue then these frameworks like Svelte, Solid, Preact, uhtml, Lit in terms of DX and Bundle Size. Preact being one of the few popular frameworks that can take advantage of both tooling and CDN.
+If JavaScript Tooling is an option then frameworks like Svelte, Solid, Preact or Lit are better suited in terms of Developer Productivity and Bundle Size.
 
 ## [HTMX](https://htmx.org/)
   - [![](https://img.shields.io/github/stars/bigskysoftware/htmx.svg?style=social&label=Star)](https://github.com/bigskysoftware/htmx)
